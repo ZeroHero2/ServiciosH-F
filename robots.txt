@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /Fotos/*
+Allow: /Fotos2/*
+Allow: /imagenes/*
+Allow: /Marcas/*
+Disallow: /.htaccess/*
+Disallow: /anima.js/*
+Disallow: /conexion.php/*
+Disallow: /Diseno/*
+Disallow: /estilo.css/*
+Disallow: /estilo2.css/*
+Disallow: /index.js/*
